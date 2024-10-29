@@ -1,0 +1,14 @@
+﻿body {
+    font-size: 20pt;
+    font-family: Merriweather;
+    text-align: center;
+}
+table, tr, th{
+    font-family: 'JetBrains Mono';
+    border-collapse: collapse;
+    border: 5px solid black;
+    margin: auto;
+}
+.school{
+    color: darkred;
+}

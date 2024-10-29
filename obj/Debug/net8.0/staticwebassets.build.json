@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "N66RrdrrjRwL7bvMLij7R8vBJZbgGD0AZTB3T6oof5s=",
+  "Source": "WebsiteCaNhan",
+  "BasePath": "_content/WebsiteCaNhan",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebsiteCaNhan\\wwwroot",
+      "Source": "WebsiteCaNhan",
+      "ContentRoot": "D:\\BaiTapDNTU\\LapTrinhWeb\\ThucHanh\\WebsiteCaNhan\\wwwroot\\",
+      "BasePath": "_content/WebsiteCaNhan",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\BaiTapDNTU\\LapTrinhWeb\\ThucHanh\\WebsiteCaNhan\\wwwroot\\css\\StyleSheet.css",
+      "SourceId": "WebsiteCaNhan",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BaiTapDNTU\\LapTrinhWeb\\ThucHanh\\WebsiteCaNhan\\wwwroot\\",
+      "BasePath": "_content/WebsiteCaNhan",
+      "RelativePath": "css/StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
+    }
+  ]
+}

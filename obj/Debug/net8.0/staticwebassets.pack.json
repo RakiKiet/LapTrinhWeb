@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\BaiTapDNTU\\LapTrinhWeb\\ThucHanh\\WebsiteCaNhan\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebsiteCaNhan.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebsiteCaNhan.props",
+      "PackagePath": "build\\WebsiteCaNhan.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebsiteCaNhan.props",
+      "PackagePath": "buildMultiTargeting\\WebsiteCaNhan.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebsiteCaNhan.props",
+      "PackagePath": "buildTransitive\\WebsiteCaNhan.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
