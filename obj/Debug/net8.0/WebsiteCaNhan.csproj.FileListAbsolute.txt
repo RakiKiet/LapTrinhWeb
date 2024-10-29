@@ -26,3 +26,4 @@ D:\BaiTapDNTU\LapTrinhWeb\ThucHanh\WebsiteCaNhan\obj\Debug\net8.0\refint\Website
 D:\BaiTapDNTU\LapTrinhWeb\ThucHanh\WebsiteCaNhan\obj\Debug\net8.0\WebsiteCaNhan.pdb
 D:\BaiTapDNTU\LapTrinhWeb\ThucHanh\WebsiteCaNhan\obj\Debug\net8.0\WebsiteCaNhan.genruntimeconfig.cache
 D:\BaiTapDNTU\LapTrinhWeb\ThucHanh\WebsiteCaNhan\obj\Debug\net8.0\ref\WebsiteCaNhan.dll
+D:\BaiTapDNTU\LapTrinhWeb\ThucHanh\WebsiteCaNhan\obj\Debug\net8.0\WebsiteCaNhan.sourcelink.json
